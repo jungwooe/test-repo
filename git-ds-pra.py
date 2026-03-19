@@ -1,5 +1,5 @@
 이정우, 202503694, 컴퓨터공학부
-
+hello
 # 코드트리 prefixSum - 두가지버전
 
 import time, random
